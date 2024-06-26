@@ -1,0 +1,38 @@
+
+body{
+    background: black;
+}
+
+
+.post-header{
+    background-color:  white;
+   width: 400px;
+   height: 500px;
+   margin:30%;
+   border-radius: 30px;
+
+
+}
+.header-right{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color:white;
+    padding: 10px;
+   
+}
+.icon-rigt{
+    justify-content: start;
+}
+.post-body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color:white;
+   
+
+}
+.post-img {
+     width:400px;
+    height: 200px;
+}
